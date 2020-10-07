@@ -8,4 +8,5 @@ steps:
     commands:
       - go test
       - go build
+      - echo "Hello World!"
       - echo "Hello World! 🎉"
